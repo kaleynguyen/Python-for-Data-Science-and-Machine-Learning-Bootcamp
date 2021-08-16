@@ -1,6 +1,6 @@
 # Python-for-Data-Science-and-Machine-Learning-Bootcamp
 This repository is forked from SuvroBaner and based on the online classes Python for DS and ML bootcamp.
-Following are the topics posted-
+Following are the topics posted:
 
 1) Python Crash Course
 2) NumPy (Numeric Python)
